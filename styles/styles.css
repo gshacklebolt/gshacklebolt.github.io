@@ -353,6 +353,12 @@ footer {
 	top: 100%;
 	left: 303px
 }
+
+.company-logo{
+	height: 50px;
+	padding-left: 10px;
+}
+
 .vtimeline-content {
 	margin-left: 350px;
 	background: #000;
