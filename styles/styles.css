@@ -48,6 +48,13 @@ transform:translateY(-100%)
 transform:translateY(0)
 }
 }
+nav#myHeaderNav{
+	position: fixed;
+	margin-top: 20px;
+	top: 0; 
+	width: 100%;
+	z-index: 999;
+}
 header {
 	position: absolute;
 	top: 0;
@@ -85,10 +92,11 @@ header a:hover {
 }
 header a:focus {
 	color: #1688f0;
-	text-decoration: none
+	text-decoration: none;
+	background: rgba(22,136,240,0.27);
 }
 header.active {
-	display: block
+	display: block;
 }
 header.sticky {
 	position: fixed;
