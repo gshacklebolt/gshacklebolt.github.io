@@ -50,7 +50,7 @@ transform:translateY(0)
 }
 nav#myHeaderNav{
 	position: fixed;
-	margin-top: 20px;
+	margin-top: 10px;
 	top: 0; 
 	width: 100%;
 	z-index: 999;
