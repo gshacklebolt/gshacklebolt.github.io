@@ -266,7 +266,10 @@ footer {
 	height: auto;
 	width: 250px;
 	max-width: 100%;
+	cursor: pointer;
+	transition: all 1s ease-in-out;
 }
+
 #lead-content h1 {
 	color: white;
 	font-weight: 900;
