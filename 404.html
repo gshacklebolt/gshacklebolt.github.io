@@ -2,7 +2,6 @@
 <html class="no-js" lang="en">
   <head>
     <meta content="text/html" charset="UTF-8" http-equiv="Content-Type" />
-    <meta name="description" content="Personal site of Ghazali, Ghazali's Portfolio, GShacklebolt" />
     <meta name="author" content="Ghazali">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -35,6 +34,7 @@
     />
 	  
     <link rel="preload" href="styles/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+
     <link href="styles/styles.min.css" rel="stylesheet" />
 
     <noscript>
@@ -47,6 +47,7 @@
       />
 		
       <link crossorigin rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicon/2.4/devicon.min.css" />
+
       <link href="styles/bootstrap.min.css" rel="stylesheet" />
       
 		<style>
@@ -61,16 +62,20 @@
   </head>
 
   <body>
-  	<section id="projects" class="background-alt" accesskey="p">
-      <h2 class="heading">OH NO! ERROR 404</h2>
-      <div class="projects-grid">
-		  
+  	<section id="pnf404" class="background-alt" accesskey="p">
+      <h2 class="heading heading_404">OH NO! <span>ERROR 404</span></h2>
+      <div class="pnf404_block">
         <div class="project shadow">
-          <div class="project-info">
-            <h3>Page Not Found</h3>
-            <p>This is probably not what you are looking for. </p>
-            <a href="./index.html" target="_self" rel="noopener" class="btn-rounded-blue">Go back to home</a>
-          </div>
+        	<div id="error_outer" class="error_outer">
+        		<div class="col-sm-3">
+        			<img id="sad_face" src="./images/sad_face.png" alt="Sad Face" />
+        		</div>
+        		<div id="error_inner" class="col-sm-9">
+		            <h3>Page Not Found</h3>
+		            <p>This is probably not what you are looking for. </p>
+		            <a href="./index.html" target="_self" rel="noopener" class="btn-rounded-blue">Go back to home</a>
+		        </div>
+	        </div> 
         </div>
       </div>
     </section>
@@ -90,5 +95,22 @@
       </div>
     </footer>
     <!-- End footer -->
+
+    <script>
+    	//To Set Height of error_outer div
+    	var error_inner=document.getElementById("error_inner").clientHeight;
+    	var window_width=window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth;
+
+		if(window_width>=768){
+			document.getElementById('sad_face').style.height=error_inner+"px";
+			document.getElementById('error_outer').style.height=(error_inner+20)+"px";
+		}
+		else if(window_width<768){
+			document.getElementById('sad_face').style.height=error_inner+"px";
+			document.getElementById('error_outer').style.height=(error_inner*2+20)+"px";
+		}
+
+//screen.width
+    </script>
   </body>
 </html>
