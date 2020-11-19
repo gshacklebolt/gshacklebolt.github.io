@@ -70,28 +70,16 @@
         		<h3>Page Not Found</h3>
         		<img src="./images/sad_face.webp" alt="Sad Face" />
         		<p>This is probably not what you are looking for. </p>
-        		<a href="./index.html" target="_self" rel="noopener" class="btn-rounded-blue">Go back to home</a>
+        		<a href="./index.php" target="_self" rel="noopener" class="btn-rounded-blue">Go back to home</a>
 		        </div>
 	        </div> 
         </div>
       </div>
     </section>
     <!-- End #projects -->
-
     <footer>
-      <div class="top">
-        <span id="to-top">
-          <i class="fa fa-chevron-up" aria-hidden="true" title="Top"></i>
-        </span>
-      </div>
-      <div class="copyright">
-		  <p>Designed and Developed by Ghazali aka GShacklebolt</p>
-	      <p> Copyright &copy; <script>document.write(new Date().getFullYear());</script> | 
-	      	All Rights Reserved
-	      </p>
-      </div>
+      <?php include("./common/footer.php"); ?>
     </footer>
-    <!-- End #Footer  -->
 
     <script src="./scripts/jquery.min.js"></script>
 
@@ -103,7 +91,8 @@
 					scrollTop: 0
 				}, 500)
 			})
-    	}(jQuery);
+      }(jQuery);
+      
     </script>
   </body>
 </html>
