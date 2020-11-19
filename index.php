@@ -301,9 +301,17 @@
         <div class="project shadow">
           <div class="project-info">
             <h3>Quedicate</h3>
-            <p>E-Platform ticketing</p>
+            <p>E-Platform ticketing Website</p>
             <a href="https://github.com/gshacklebolt/quedicate" target="_blank" rel="noopener" class="btn-rounded-blue">View Project</a>
             <a href="https://ghazali.ml/projects/quedicate" target="_blank" rel="noopener" class="btn-rounded-blue">View Live Site</a>
+          </div>
+        </div>
+
+        <div class="project shadow">
+          <div class="project-info">
+            <h3>HypeXMark</h3>
+            <p>A digital marketing & creative solutions website</p>
+            <a href="http://hypexmark.com/" target="_blank" rel="noopener" class="btn-rounded-blue">View Live Site</a>
           </div>
         </div>
 		  
