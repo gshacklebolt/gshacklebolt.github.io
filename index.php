@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
   <head>
-    <meta content="text/html" charset="UTF-8" http-equiv="Content-Type" />
-    <meta name="description" content="Personal site of Ghazali, Ghazali's Portfolio, GShacklebolt" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="Ghazali.ml is a personal site of Ghazali created for the purpose of serving as an online portfolio." />
     <meta name="keywords" content="Ghazali, Ghazali Shacklebolt, GShacklebolt, ghazali.ml, quedicate.ml, ghazali123456, Shacklebolt, Haza, Dilawarpur, Munger, ndamunger, notre dame, Bhopal, Corporate Institute of Science and Technology, CIST, corporatebpl, Wipro, Best Software Developer, Web Developer, Web Designer, Digital Marketing Expert, Content Creator">
     <meta name="author" content="Ghazali">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!--Verify on Google Search Console-->
     <meta name="google-site-verification" content="8VGBHJtvWXi6JXuP7s8Ln7l4euVmpFEx68tIZhcuwQg" />
@@ -14,7 +15,7 @@
     
     <title>Ghazali's Portfolio</title>
 
-    <link rel="icon" type="image/png" href="images/ghazali.png" />
+    <link rel="icon" type="image/ico" href="images/ghazali.ico" />
 
     <!-- For Performance Improvements -->  
     <link
@@ -41,7 +42,8 @@
     />
 	  
     <link rel="preload" href="styles/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-    <link href="styles/styles.css" rel="stylesheet" />
+
+    <link href="styles/styles.min.css" rel="stylesheet" />
 
     <noscript>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Great+Vibes|Lato:300,400,700,900&display=swap" />
@@ -53,6 +55,7 @@
       />
 		
       <link crossorigin rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicon/2.4/devicon.min.css" />
+      
       <link href="styles/bootstrap.min.css" rel="stylesheet" />
       
 		<style>
@@ -409,7 +412,7 @@
       }
     </script>
 
-    <script src="./scripts/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="./scripts/scripts.min.js"></script>
   </body>
 </html>
