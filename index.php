@@ -139,6 +139,11 @@
               </a>
             </li>
             <li>
+              <a href="https://facebook.com/gshacklebolt" target="_blank" rel="noopener" accesskey="f">
+                <i class="fab fa-facebook" aria-hidden="true" title="Ghazali's Facebook Profile"></i>
+              </a>
+            </li>
+            <li>
               <a href="https://twitter.com/gshacklebolt" target="_blank" rel="noopener" accesskey="t">
                 <i class="fab fa-twitter" aria-hidden="true" title="Ghazali's Twitter Profile"></i>
               </a>
@@ -182,6 +187,11 @@
               <a href="https://t.me/gshacklebolt" target="_blank" rel="noopener" accesskey="z">
                 <i class="fab fa-telegram-plane" aria-hidden="true" title="Ghazali's Telegram"></i>
               </a>
+            </li>
+            <li>
+              <a href="tel:+91 7033739442"rel="noopener" accesskey="p">
+                <i class="fas fa-phone-alt" aria-hidden="true" title="Call Ghazali"></i
+              ></a>
             </li>
           </ul>
         </nav>
@@ -301,7 +311,7 @@
         <div class="project shadow">
           <div class="project-info">
             <h3>Quedicate</h3>
-            <p>E-Platform ticketing Website</p>
+            <p>E-Platform ticketing website</p>
             <a href="https://github.com/gshacklebolt/quedicate" target="_blank" rel="noopener" class="btn-rounded-blue">View Project</a>
             <a href="https://ghazali.ml/projects/quedicate" target="_blank" rel="noopener" class="btn-rounded-blue">View Live Site</a>
           </div>
