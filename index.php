@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <meta name="description" content="Ghazali.ml is a personal site of Ghazali created for the purpose of serving as an online portfolio." />
-    <meta name="keywords" content="Ghazali, Ghazali Shacklebolt, GShacklebolt, ghazali.ml, quedicate.ml, ghazali123456, Shacklebolt, Haza, Dilawarpur, Munger, ndamunger, notre dame, Bhopal, Corporate Institute of Science and Technology, CIST, corporatebpl, Wipro, Best Software Developer, Web Developer, Web Designer, Digital Marketing Expert, Content Creator">
+    <meta name="description" content="Ghazali.ml is a personal site of Ghazali created for the purpose of serving as an online portfolio. To find more about me, my latest projects or just to get in touch with me checkout this website." />
+    <meta name="keywords" content="Ghazali, Ghazali Shacklebolt, GShacklebolt, ghazali.ml, Ghazali's portfolio, quedicate.ml, ghazali123456, Shacklebolt, Haza, Dilawarpur, Munger, ndamunger, notre dame, Bhopal, Corporate Institute of Science and Technology, CIST, corporatebpl, Wipro, Best Software Developer, Web Developer, Web Designer, Digital Marketing Expert, Content Creator">
     <meta name="author" content="Ghazali">
 
     <!--Verify on Google Search Console-->
@@ -13,7 +13,7 @@
     <!--Verify on Bing Webmaster-->
     <meta name="msvalidate.01" content="9BC2739931AB1893001315FE381B6148" />
     
-    <title>Ghazali's Portfolio</title>
+    <title>Ghazali Shacklebolt</title>
 
     <link rel="icon" type="image/ico" href="images/ghazali.ico" />
 
