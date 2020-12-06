@@ -213,14 +213,14 @@
       <h2 class="heading">About Me</h2>
       <p>
         Hi visitor, Ghazali (aka GShacklebolt) here. Welcome to my little space on the web.
-		<br /><br />
-		I am a passionate software developer and a problem solver in permanent beta.
+        <br /><br />
+        I am a passionate software developer and a problem solver in permanent beta.
         Learning new things, making stuff and exploring technology are my passion.<br/ >
-		Also, I love reading novels, mostly fiction.
-		<br /><br />
-		  You can find links to my <a href="https://github.com/gshacklebolt" target="_blank" rel="noopener">GitHub</a>, <a href="https://twitter.com/gshacklebolt" target="_blank" rel="noopener">Twitter</a> and other social profiles and various projects here. Feel free to
-        <a href="mailto:ghazali123456@gmail.com" target="_blank" rel="noopener">get in touch</a> if anything here
-        managed to catch your attention.<br />
+        Also, I love reading novels, mostly fiction.
+        <br /><br />
+        You can find links to my <a href="https://github.com/gshacklebolt" target="_blank" rel="noopener">GitHub</a>, <a href="https://twitter.com/gshacklebolt" target="_blank" rel="noopener">Twitter</a> and other social profiles and various projects here. Feel free to
+        <a href="mailto:ghazali123456@gmail.com" target="_blank" rel="noopener">get in touch</a>
+        if anything here managed to catch your attention.<br />
       </p>
     </section>
     <!-- End #about -->
