@@ -1,0 +1,8 @@
+<section id="about">
+	<h2 class="heading">Advertisements</h2>
+	<p>
+		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gshacklebolt-21&marketplace=amazon&region=IN&placement=B08GC29VT5&asins=B08GC29VT5&linkId=025d791163ca09388a67976b86b4013b&show_border=true&link_opens_in_new_window=true"></iframe>
+		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gshacklebolt-21&marketplace=amazon&region=IN&placement=B08HR2VDHD&asins=B08HR2VDHD&linkId=19151d85137bc7a3f3e712bdbe96a9cf&show_border=true&link_opens_in_new_window=true"></iframe>
+		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gshacklebolt-21&marketplace=amazon&region=IN&placement=B08C7MY7Z6&asins=B08C7MY7Z6&linkId=bb91a325dbbd67adfde45574e67dc8e9&show_border=true&link_opens_in_new_window=true"></iframe>
+	</p>
+</section>

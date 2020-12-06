@@ -224,6 +224,9 @@
       </p>
     </section>
     <!-- End #about -->
+    <?php
+      include("./adverts.php");
+    ?>
 
     <section id="experience" class="background-alt" accesskey="e">
       <h2 class="heading">Experience</h2>
