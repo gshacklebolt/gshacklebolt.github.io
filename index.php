@@ -105,7 +105,7 @@
 
     <section id="lead">
       <div id="lead-content">
-        <img id="me" src="images/ghazali.png" alt="Ghazali Shacklebolt" />
+        <img id="me" src="images/ghazali.jpg" alt="Ghazali Shacklebolt" />
         <h2>______________________________________</h2>
         <h1 id="heading">Ghazali</h1>
         <h2 id="subheading">
@@ -233,7 +233,7 @@
       <div id="experience-timeline">
         <div data-date="October 2020 – Present" class="shadow">
           <a href="https://www.wipro.com/" target="_blank">
-          	<h3>Wipro Limited <img src="./images/company/wipro.png" alt="Wipro Logo" class="company-logo" /></h3>
+          	<h3>Wipro Limited <img src="./images/company/wipro.webp" alt="Wipro Logo" class="company-logo" /></h3>
           </a>
           <h4>Project Engineer</h4>
           <ul>
@@ -242,7 +242,7 @@
         </div>
         <div data-date="June 2019 – July 2019" class="shadow">
           <a href="http://parabit.in/" target="_blank">
-          	<h3>Parabit Technology Pvt. Ltd <img src="./images/company/parabit.png" alt="Parabit Logo" class="company-logo" /></h3>
+          	<h3>Parabit Technology Pvt. Ltd <img src="./images/company/parabit.webp" alt="Parabit Logo" class="company-logo" /></h3>
           </a>
           <h4>Software Development Intern</h4>
           <ul>
@@ -251,7 +251,7 @@
         </div>
         <div data-date="January 2019 – June 2019" class="shadow">
           <a href="http://fidaato.in/" target="_blank">
-          	<h3>Fidaato Infotech Pvt Ltd <img src="./images/company/fidaato.png" alt="Fidaato Logo" class="company-logo" /></h3>
+          	<h3>Fidaato Infotech Pvt Ltd <img src="./images/company/fidaato.webp" alt="Fidaato Logo" class="company-logo" /></h3>
           </a>
           <h4>Web Developer Intern</h4>
           <ul>
