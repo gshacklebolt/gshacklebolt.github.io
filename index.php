@@ -15,7 +15,7 @@
     
     <title>Ghazali Shacklebolt</title>
 
-    <link rel="icon" type="image/ico" href="images/ghazali.ico" />
+    <link rel="icon" type="image/ico" href="/images/ghazali.ico" />
 
     <!-- For Performance Improvements -->  
     <link
@@ -41,9 +41,9 @@
       onload="this.onload=null;this.rel='stylesheet'"
     />
 	  
-    <link rel="preload" href="styles/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+    <link rel="preload" href="/styles/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
 
-    <link href="styles/styles.min.css" rel="stylesheet" />
+    <link href="/styles/styles.min.css" rel="stylesheet" />
 
     <noscript>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Great+Vibes|Lato:300,400,700,900&display=swap" />
@@ -56,7 +56,7 @@
 		
       <link crossorigin rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicon/2.4/devicon.min.css" />
       
-      <link href="styles/bootstrap.min.css" rel="stylesheet" />
+      <link href="/styles/bootstrap.min.css" rel="stylesheet" />
       
 		<style>
         #heading {
@@ -105,7 +105,7 @@
 
     <section id="lead">
       <div id="lead-content">
-        <img id="me" src="images/ghazali.jpg" alt="Ghazali Shacklebolt" />
+        <img id="me" src="/images/ghazali.jpg" alt="Ghazali Shacklebolt" />
         <h2>______________________________________</h2>
         <h1 id="heading">Ghazali</h1>
         <h2 id="subheading">
@@ -434,6 +434,6 @@
     </script>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="./scripts/scripts.min.js"></script>
+    <script src="/scripts/scripts.min.js"></script>
   </body>
 </html>

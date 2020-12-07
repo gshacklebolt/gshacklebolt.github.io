@@ -9,7 +9,7 @@
 
     <title>Ghazali's Portfolio | Page Not Found</title>
 
-    <link rel="icon" type="image/png" href="images/ghazali.ico" />
+    <link rel="icon" type="image/ico" href="/images/ghazali.ico" />
 
     <!-- For Performance Improvements -->  
     <link
@@ -35,9 +35,9 @@
       onload="this.onload=null;this.rel='stylesheet'"
     />
 	  
-    <link rel="preload" href="styles/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+    <link rel="preload" href="/styles/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
 
-    <link href="styles/styles.min.css" rel="stylesheet" />
+    <link href="/styles/styles.min.css" rel="stylesheet" />
 
     <noscript>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Great+Vibes|Lato:300,400,700,900&display=swap" />
@@ -50,7 +50,7 @@
 		
       <link crossorigin rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicon/2.4/devicon.min.css" />
 
-      <link href="styles/bootstrap.min.css" rel="stylesheet" />
+      <link href="/styles/bootstrap.min.css" rel="stylesheet" />
       
 		<style>
         #heading {
@@ -70,9 +70,9 @@
         <div class="project shadow">
         	<div class="error_details">
         		<h3>Page Not Found</h3>
-        		<img src="./images/sad_face.webp" alt="Sad Face" />
+        		<img src="/images/sad_face.webp" alt="Sad Face" />
         		<p>This is probably not what you are looking for. </p>
-        		<a href="./index.php" target="_self" rel="noopener" class="btn-rounded-blue">Go back to home</a>
+        		<a href="/index.php" target="_self" rel="noopener" class="btn-rounded-blue">Go back to home</a>
 		        </div>
 	        </div> 
         </div>
