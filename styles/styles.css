@@ -532,6 +532,12 @@ footer {
 	font-size: 1.2em;
 }
 
+.hiddenText{
+	font-size: 0;
+	position: absolute!important;
+}
+
+/*CSS for 404.php starts here*/
 #pnf404 {
 	text-align: center;
 	padding: 50px 0px 20px 0px;
@@ -571,6 +577,8 @@ footer {
 .error_details p{
 	margin-bottom: 25px;
 }
+/*CSS for 404.php ends here*/
+
 
 @media only screen and (max-width: 1100px) {
 #lead {

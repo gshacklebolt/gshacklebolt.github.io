@@ -7,7 +7,7 @@
     <meta name="author" content="Ghazali">
     <meta name="robots" content="noindex" />
 
-    <title>Ghazali's Portfolio | Page Not Found</title>
+    <title>Ghazali Shacklebolt | Page Not Found</title>
 
     <link rel="icon" type="image/ico" href="/images/ghazali.ico" />
 
