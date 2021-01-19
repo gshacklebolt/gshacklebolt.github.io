@@ -10,7 +10,7 @@
   		  <p>Designed &amp; Developed by <a href="https://www.ghazali.ml/" onMouseOver="this.style.color='#800080'" onMouseOut="this.style.color='#1688f0'">Ghazali</a>
         </p>
         <p class="hiddenText">
-          Also checkout <a href="http://kasif.ml/">Md Kasif's</a> site
+          Also checkout <a href="https://www.kasif.ml/">Md Kasif's</a> site
         </p>
       </div>
     
