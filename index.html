@@ -40,7 +40,7 @@
       as="style"
       onload="this.onload=null;this.rel='stylesheet'"
     />
-	  
+    
     <link rel="preload" href="./styles/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
 
     <link href="./styles/styles.min.css" rel="stylesheet" />
@@ -53,12 +53,12 @@
         rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css"
       />
-		
+    
       <link crossorigin rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicon/2.4/devicon.min.css" />
       
       <link href="./styles/bootstrap.min.css" rel="stylesheet" />
       
-		<style>
+    <style>
         #heading {
           padding-bottom: 20px;
         }
@@ -115,7 +115,7 @@
         <h1 id="heading">Ghazali<span class="hiddenText"> Shacklebolt's Personal Website</span></h1>
         <h2 id="subheading">
           I'm
-			<span class="typewriter"
+      <span class="typewriter"
             data-period="2000"
             data-type='["a passionate Programmer.", "elated to see you here ;)","a Bibliophile.","a Tech-Savant.", "a Reader.", "a Learner.", "an Explorer.", "a Problem Solver.", "a Potterhead.","in a Permanent Beta :P",  "hoping you send me a Hi! :)" ]'>
             <span class="wrap"></span>
@@ -235,25 +235,30 @@
       </p>
     </section>
     <!-- End #about -->
+
+    <!-- Adverts -->
     <?php
-      include("./adverts.php");
+      //include("./adverts.php");
     ?>
+    <!-- Adverts -->
 
     <section id="experience" class="background-alt" accesskey="e">
       <h2 class="heading">Experience</h2>
       <div id="experience-timeline">
         <div data-date="March 2021 – Present" class="shadow">
           <a href="https://www.wipro.com/" target="_blank">
-          	<h3>Wipro Limited <img src="./images/company/wipro.webp" alt="Wipro Logo" class="company-logo" /></h3>
+            <h3>Wipro Limited <img src="./images/company/wipro.webp" alt="Wipro Logo" class="company-logo" /></h3>
           </a>
           <h4>Project Engineer</h4>
+          <h5>ServiceNow Developer using Angular, HTML, CSS</h5>
+          <h5>Certifications - ServiceNow Certified System Administrator, CSM, HRSM Custom App Development</h5>
           <ul>
             <!-- <li></li> -->
           </ul>
         </div>
         <div data-date="July 2019 – January 2020" class="shadow">
           <a href="http://fidaato.in/" target="_blank">
-          	<h3>Fidaato Infotech Pvt Ltd <img src="./images/company/fidaato.webp" alt="Fidaato Logo" class="company-logo" /></h3>
+            <h3>Fidaato Infotech Pvt Ltd <img src="./images/company/fidaato.webp" alt="Fidaato Logo" class="company-logo" /></h3>
           </a>
           <h4>Web Developer Intern</h4>
           <h5>PHP, HTML, CSS, Bootstrap, JavaScript, AJAX, MySQL </h5>
@@ -279,7 +284,7 @@
       <h2 class="heading">Education</h2>
       <div class="education-block shadow">
         <a href="https://www.corporatebpl.com/" target="_blank">
-        	<h3>Corporate Institute of Science &amp; Technology, Bhopal</h3>
+          <h3>Corporate Institute of Science &amp; Technology, Bhopal</h3>
         </a>
         <span class="education-date"> 2016 - 2020</span>
         <h4>Bachelor of Engineering (B.E.) in Computer Science &amp; Engineering</h4>
@@ -300,7 +305,7 @@
       <!-- End .education-block -->
       <div class="education-block shadow">
         <a href="http://www.ndmunger.com/" target="_blank">
-        	<h3>Notre Dame Academy, Munger</h3>
+          <h3>Notre Dame Academy, Munger</h3>
         </a>
         <span class="education-date"> 2011 - 2013</span>
         <h4>Secondary Education (10th)</h4>
@@ -315,7 +320,7 @@
     <section id="projects" class="background-alt" accesskey="p">
       <h2 class="heading">Projects</h2>
       <div class="projects-grid">
-		  
+      
         <div class="project shadow">
           <div class="project-info">
             <h3>PSCIS</h3>
@@ -323,7 +328,7 @@
             <a href="" target="_blank" rel="noopener" class="btn-rounded-blue">View Project</a>
           </div>
         </div>
-		  
+      
         <div class="project shadow">
           <div class="project-info">
             <h3>Quedicate</h3>
@@ -332,7 +337,7 @@
             <a href="https://www.ghazali.ga/projects/quedicate" target="_blank" rel="noopener" class="btn-rounded-blue">View Live Site</a>
           </div>
         </div>
-		  
+      
       </div>
       <p>
         <a href="https://github.com/gshacklebolt?tab=repositories" target="_blank" rel="noopener" class="btn-rounded-blue">More Projects</a>
@@ -343,12 +348,14 @@
 
     <section id="skills" accesskey="s">
       <h2 class="heading">Skills</h2>
-      <ul>  
+      <ul>
+        <li><i class="devicon-angularjs-plain colored"></i> Angular</li>  
         <li><i class="devicon-java-plain colored"></i> Java</li>
         <li><i class="devicon-php-plain colored"></i> PHP</li>
         <li><i class="devicon-html5-plain colored"></i> HTML</li>
         <li><i class="devicon-css3-plain colored"></i> CSS</li>
         <li><i class="devicon-javascript-plain colored"></i> JavaScript</li>
+        <li><i class="devicon-typescript-plain colored"></i> TypeScript</li>
         <li><i class="devicon-bootstrap-plain colored"></i> Bootstrap</li>
         <li><i class="devicon-jquery-plain colored"></i> jQuery</li>
         <li><i class="devicon-mysql-plain colored"></i> MySQL</li>
@@ -433,8 +440,8 @@
       var me=document.getElementById("me");
       var rot=360;
       me.onclick=function(){
-      	me.style='transform: rotate('+rot+'deg)';
-      	rot+=360;
+        me.style='transform: rotate('+rot+'deg)';
+        rot+=360;
       }
     </script>
 
