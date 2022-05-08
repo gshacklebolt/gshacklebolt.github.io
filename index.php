@@ -212,7 +212,7 @@
         I am a passionate software developer and a problem solver in permanent beta.
         Learning new things, making stuff and exploring technology are my passion. <br />
         I have experience in web development using HTML, PHP, CSS, Bootstrap, Javascript, AJAX, jQuery, MySQL, Oracle DB. <br />I did my minor project using Java. My current language of choice is Java.<br />
-        Currently, I am working for Wipro Limited.
+        Currently, I am working for Wipro.
         <br/ ><br />
         Also, I love reading novels, mostly fiction.
         <br /><br />
@@ -237,7 +237,7 @@
       <div id="experience-timeline">
         <div data-date="March 2021 – Present" class="shadow">
           <a href="https://www.wipro.com/" target="_blank">
-          	<h3>Wipro Limited <img src="./images/company/wipro.webp" alt="Wipro Logo" class="company-logo" /></h3>
+          	<h3>Wipro <img src="./images/company/wipro.webp" alt="Wipro Logo" class="company-logo" /></h3>
           </a>
           <h4>Project Engineer</h4>
           <h5>ServiceNow Developer using Angular, HTML, CSS</h5>
