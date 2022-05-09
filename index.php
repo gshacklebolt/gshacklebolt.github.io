@@ -117,7 +117,7 @@
           I'm
 			<span class="typewriter"
             data-period="2000"
-            data-type='["a passionate Programmer.", "elated to see you here ;)","a Bibliophile.","a Tech-Savant.", "a Reader.", "a Learner.", "an Explorer.", "a Problem Solver.", "a Potterhead.","in a Permanent Beta :P",  "hoping you send me a Hi! :)" ]'>
+            data-type='["elated to see you here &#128521;", "a passionate programmer.","a tech-savant.", "a problem solver.", "in a permanent beta &#128539;", "a bibliophile.", "a potterhead.", "a ravenclaw.", "hoping you send me a Hi! &#128522;" ]'>
             <span class="wrap"></span>
           </span>
         </h2>
