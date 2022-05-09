@@ -240,8 +240,9 @@
           	<h3>Wipro Limited <img src="./images/company/wipro.webp" alt="Wipro Logo" class="company-logo" /></h3>
           </a>
           <h4>Project Engineer</h4>
-          <h5>ServiceNow Developer using Angular, HTML, CSS</h5>
-          <h5>Certifications - ServiceNow CSA, CSM, Custom App Development</h5>
+          <h5>Develop custom application on ServiceNow using Angular, HTML, CSS and JS.</h5>
+          <h5>Develop and unit test apps according to story description in Jira.</h5> 
+          <h5>Write UTP documents. And assist during UAT migration.</h5>
           <ul>
             <!-- <li></li> -->
           </ul>
@@ -251,7 +252,7 @@
           	<h3>Fidaato Infotech Pvt Ltd <img src="./images/company/fidaato.webp" alt="Fidaato Logo" class="company-logo" /></h3>
           </a>
           <h4>Web Developer Intern</h4>
-          <h5>PHP, HTML, CSS, Bootstrap, JavaScript, AJAX, MySQL </h5>
+          <h5>Worked on company's project to develop websites using PHP, HTML, CSS, Bootstrap, JavaScript, AJAX, MySQL </h5>
           <ul>
             <!-- <li></li> -->
           </ul>
@@ -261,7 +262,7 @@
             <h3>Parabit Technology Pvt. Ltd <img src="./images/company/parabit.webp" alt="Parabit Logo" class="company-logo" /></h3>
           </a>
           <h4>Software Development Intern</h4>
-          <h5>Java & MySQL in NetBeans</h5>
+          <h5>Worked in software development department using Java and MySQL on NetBeans IDE.</h5>
           <ul>
             <!-- <li></li> -->
           </ul>
