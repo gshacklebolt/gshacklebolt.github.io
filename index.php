@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <meta name="description" content="Ghazali.ga is a personal site of Ghazali created to serve as an online portfolio. To get in touch, to find more about me or my projects checkout my website." />
-    <meta name="keywords" content="Ghazali, Ghazali Shacklebolt, GShacklebolt, ghazali.ga, Ghazali's portfolio, quedicate.ml, ghazali123456, Shacklebolt, Haza, Dilawarpur, Munger, ndamunger, notre dame, Bhopal, Corporate Institute of Science and Technology, CIST, corporatebpl, Wipro, Best Software Developer, Web Developer, Web Designer, Digital Marketing Expert, Content Creator">
+    <meta name="description" content="Ghazali.cf is a personal site of Ghazali created to serve as an online portfolio. To get in touch, to find more about me or my projects checkout my website." />
+    <meta name="keywords" content="Ghazali, Ghazali Shacklebolt, GShacklebolt, ghazali.cf, Ghazali's portfolio, quedicate.ml, ghazali123456, Shacklebolt, Haza, Dilawarpur, Munger, ndamunger, notre dame, Bhopal, Corporate Institute of Science and Technology, CIST, corporatebpl, Wipro, Best Software Developer, Web Developer, Web Designer, Digital Marketing Expert, Content Creator">
     <meta name="author" content="Ghazali">
 
     <!--Verify on Bing Webmaster-->
@@ -13,7 +13,7 @@
     
     <title>Ghazali Shacklebolt | Home</title>
 
-    <link rel="canonical" href="https://www.ghazali.ga/" />
+    <link rel="canonical" href="https://www.ghazali.cf/" />
 
     <link rel="icon" type="image/ico" href="./images/ghazali.ico" />
 
@@ -325,7 +325,7 @@
             <h3>Quedicate</h3>
             <p>E-Platform ticketing website</p>
             <a href="https://github.com/gshacklebolt/quedicate" target="_blank" rel="noopener" class="btn-rounded-blue">View Project</a>
-            <a href="https://www.ghazali.ga/projects/quedicate" target="_blank" rel="noopener" class="btn-rounded-blue">View Live Site</a>
+            <a href="https://www.ghazali.cf/projects/quedicate" target="_blank" rel="noopener" class="btn-rounded-blue">View Live Site</a>
           </div>
         </div>
 		  
