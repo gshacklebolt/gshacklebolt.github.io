@@ -207,14 +207,15 @@
     <section id="about" accesskey="a">
       <h2 class="heading">About Me</h2>
       <p>
-        Hi visitor, Ghazali (aka GShacklebolt) here. Welcome to my little space on the web.
+        Hi visitor, Ghazali here. Welcome to my little space on the web.
         <br /><br />
-        I am a passionate software developer and a problem solver in permanent beta.
+        I am a professional software developer and a problem solver in permanent beta.
         Learning new things, making stuff and exploring technology are my passion. <br />
-        I have experience in web development using HTML, PHP, CSS, Bootstrap, Javascript, AJAX, jQuery, MySQL, Oracle DB. <br />I did my minor project using Java. My current language of choice is Java.<br />
-        Currently, I am working for Wipro Limited.
+        I have experience in front-end development using Angular, HTML, PHP, CSS, Bootstrap, Javascript, AJAX, jQuery, MySQL, Oracle DB. <br />
+        My current language of choice is Angular.<br />
+        Currently, I am working in Wipro on a project of Citibank. . .
         <br/ ><br />
-        Also, I love reading novels, mostly fiction.
+        Also, I love reading novels, mostly Young-adult fiction.
         <br /><br />
         You can find links to my <a href="https://github.com/gshacklebolt" target="_blank" rel="noopener">GitHub</a>, <a href="https://twitter.com/gshacklebolt" target="_blank" rel="noopener">Twitter</a> and other social profiles and various projects here. Feel free to
         <a href="mailto:ghazali123456@gmail.com" target="_blank" rel="noopener">get in touch</a>
@@ -287,7 +288,7 @@
       <!-- End .education-block -->
       <div class="education-block shadow">
         <h3>Krishnanand Memorial Academy, Munger</h3>
-        <span class="education-date"> 2013 - 2016</span>
+        <span class="education-date"> 2015 - 2016</span>
         <h4>Higher Secondary Education (12th)</h4>
         <ul>
           <li>Graduated Higher Secondary School with Science (Mathematics).</li>
@@ -298,7 +299,7 @@
         <a href="http://www.ndmunger.com/" target="_blank">
         	<h3>Notre Dame Academy, Munger</h3>
         </a>
-        <span class="education-date"> 2011 - 2013</span>
+        <span class="education-date"> 2012 - 2013</span>
         <h4>Secondary Education (10th)</h4>
         <ul>
           <li>Graduated Secondary School with Foundation of IT as optional.</li>
