@@ -124,7 +124,7 @@
         <nav class="social">
           <ul>
             <li>
-              <a href="mailto:ghazali123456@gmail.com" target="_blank" rel="noopener" accesskey="m">
+              <a class="add-mail" href="" target="_blank" rel="noopener" accesskey="m">
                 <i class="fas fa-envelope" aria-hidden="true" title="Ghazali's Mail"></i>
               </a>
             </li>
@@ -218,7 +218,7 @@
         Also, I love reading novels, mostly Young-adult fiction.
         <br /><br />
         You can find links to my <a href="https://github.com/gshacklebolt" target="_blank" rel="noopener">GitHub</a>, <a href="https://twitter.com/gshacklebolt" target="_blank" rel="noopener">Twitter</a> and other social profiles and various projects here. Feel free to
-        <a href="mailto:ghazali123456@gmail.com" target="_blank" rel="noopener">get in touch</a>
+        <a class="add-mail" href="" target="_blank" rel="noopener">get in touch</a>
         if anything here managed to catch your attention.<br /><br />
 
         <a class="btn-rounded-blue" style="margin-top: 20px;" rel="noopener" target="_blank" href="https://drive.google.com/file/d/1IwgZotPUQVn04Rs73SB1lDZzyjcKzunE/view?usp=sharing">Download Resume</a>
@@ -429,11 +429,22 @@
         document.head.append(bootstrap);
       }
 
+      //Rotate Profile Picture
       var me=document.getElementById("me");
       var rot=360;
       me.onclick=function(){
       	me.style='transform: rotate('+rot+'deg)';
       	rot+=360;
+      }
+
+      //Obfuscate email to prevent email harvesting
+      var elems=document.getElementsByClassName("add-mail");
+      var d = "ail" ;
+      var u = "ghazali" ;
+      var t = "om" ;
+      var a = u +'123456'+ '@gm' + d + '.c' + t ;
+      for(let i=0;i<elems.length;i++){
+        elems[i].href="mailto:"+a;
       }
     </script>
 
