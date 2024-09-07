@@ -4,16 +4,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <meta name="description" content="Ghazali.cf is a personal site of Ghazali created to serve as an online portfolio. To get in touch, to find more about me or my projects checkout my website." />
-    <meta name="keywords" content="Ghazali, Ghazali Shacklebolt, GShacklebolt, ghazali.cf, Ghazali's portfolio, quedicate.ml, ghazali123456, Shacklebolt, Haza, Dilawarpur, Munger, ndamunger, notre dame, Bhopal, Corporate Institute of Science and Technology, CIST, corporatebpl, Wipro, Best Software Developer, Web Developer, Web Designer, Digital Marketing Expert, Content Creator">
+    <meta name="description" content="ghazali.co.in is a personal site of Ghazali created to serve as an online portfolio. To get in touch, to find more about me or my projects checkout my website." />
+    <meta name="keywords" content="Ghazali, Ghazali Shacklebolt, GShacklebolt, ghazali.co.in, ghazali.cf, Ghazali's portfolio, quedicate.ml, ghazali123456, Shacklebolt, Haza, Dilawarpur, Munger, ndamunger, notre dame, Bhopal, Corporate Institute of Science and Technology, CIST, corporatebpl, Accenture, Wipro, Best Software Developer, Web Developer, Web Designer, Digital Marketing Expert, Content Creator">
     <meta name="author" content="Ghazali">
 
     <!--Verify on Bing Webmaster-->
     <meta name="msvalidate.01" content="9BC2739931AB1893001315FE381B6148" />
     
-    <title>Ghazali Shacklebolt | Home</title>
+    <title>Ghazali's Portfolio | Home</title>
 
-    <link rel="canonical" href="https://www.ghazali.cf/" />
+    <link rel="canonical" href="https://www.ghazali.co.in/" />
 
     <link rel="icon" type="image/ico" href="./images/ghazali.ico" />
 
@@ -110,9 +110,9 @@
 
     <section id="lead">
       <div id="lead-content">
-        <img id="me" src="./images/ghazali.jpg" alt="Ghazali Shacklebolt" />
+        <img id="me" src="./images/ghazali2.jpg" alt="Ghazali Shacklebolt" />
         <h2>______________________________________</h2>
-        <h1 id="heading">Ghazali<span class="hiddenText"> Shacklebolt's Personal Website</span></h1>
+        <h1 id="heading">Ghazali<span class="hiddenText"> Shacklebolt's Portfolio Website</span></h1>
         <h2 id="subheading">
           I'm
 			<span class="typewriter"
@@ -128,11 +128,6 @@
                 <i class="fas fa-envelope" aria-hidden="true" title="Ghazali's Mail"></i>
               </a>
             </li>
-            <!--<li>
-              <a href="https://gshacklebolt.blogspot.com" target="_blank" rel="noopener" accesskey="b">
-                <i class="fab fa-blogger" aria-hidden="true" title="Ghazali's Blog"></i>
-              </a>
-            </li>-->
             <li>
               <a href="https://github.com/gshacklebolt" target="_blank" rel="noopener" accesskey="g">
                 <i class="fab fa-github" aria-hidden="true" title="Ghazali's GitHub Profile"></i>
@@ -167,11 +162,6 @@
               >
                 <i class="fab fa-youtube" aria-hidden="true" title="Ghazali's Youtube Channel"></i
               ></a>
-            </li>-->
-            <!--<li>
-              <a href="https://dev.to/gshacklebolt" target="_blank" rel="noopener" accesskey="d">
-                <i class="fab fa-dev" aria-hidden="true" title="Ghazali's Dev Profile"></i>
-              </a>
             </li>-->
             <li>
               <a href="https://hackerrank.com/gshacklebolt" target="_blank" rel="noopener" accesskey="h">
@@ -213,7 +203,7 @@
         Learning new things, making stuff and exploring technology are my passion. <br />
         I have experience in front-end development using Angular, HTML, PHP, CSS, Bootstrap, Javascript, AJAX, jQuery, MySQL, Oracle DB. <br />
         My current language of choice is Angular.<br />
-        Currently, I am working in Wipro on a project of Citibank. . .
+        Currently, I am working in Accenture as a Servicenow Developer. . .
         <br/ ><br />
         Also, I love reading novels, mostly Young-adult fiction.
         <br /><br />
@@ -236,7 +226,16 @@
     <section id="experience" class="background-alt" accesskey="e">
       <h2 class="heading">Experience</h2>
       <div id="experience-timeline">
-        <div data-date="March 2021 – Present" class="shadow">
+        <div data-date="September 2023 - Present" class="shadow">
+          <a href="https://www.accenture.com/" target="_blank">
+            <h3>Accenture <img src="./images/company/accenture.png" alt="Accenture Logo" class="company-logo" style="height: 25px !important" /></h3>
+          </a>
+          <h4>Cloud Migration & Implementation Analyst</h4>
+          <ul>
+            <!-- <li></li> -->
+          </ul>
+        </div>
+        <div data-date="March 2021 – September 2023" class="shadow">
           <a href="https://www.wipro.com/" target="_blank">
           	<h3>Wipro Limited <img src="./images/company/wipro.webp" alt="Wipro Logo" class="company-logo" /></h3>
           </a>
@@ -326,7 +325,7 @@
             <h3>Quedicate</h3>
             <p>E-Platform ticketing website</p>
             <a href="https://github.com/gshacklebolt/quedicate" target="_blank" rel="noopener" class="btn-rounded-blue">View Project</a>
-            <a href="https://www.ghazali.cf/projects/quedicate" target="_blank" rel="noopener" class="btn-rounded-blue">View Live Site</a>
+            <a href="https://www.ghazali.co.in/projects/quedicate" target="_blank" rel="noopener" class="btn-rounded-blue">View Live Site</a>
           </div>
         </div>
 		  
